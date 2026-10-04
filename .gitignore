@@ -1,0 +1,8 @@
+# не трекать файлы дз
+*.pdf 
+
+.venv/
+.ruff_cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
