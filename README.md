@@ -4,4 +4,4 @@
 
 ## Задания
 
-- [Домашнее задание 1](dz1_.Georgy_Lyalin_p1p2p3.ipynb): классы банковских счетов (`Account`, `CheckingAccount`, `SavingsAccount`), история операций и загрузка «грязных» данных из CSV/JSON.
+- [Домашнее задание 1](dz1_Georgy_Lyalin_p1p2p3.ipynb): классы банковских счетов (`Account`, `CheckingAccount`, `SavingsAccount`), история операций и загрузка «грязных» данных из CSV/JSON.
