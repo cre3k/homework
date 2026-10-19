@@ -5,3 +5,5 @@
 ## Задания
 
 - [Домашнее задание 1](dz1_Georgy_Lyalin_p1p2p3.ipynb): классы банковских счетов (`Account`, `CheckingAccount`, `SavingsAccount`), история операций и загрузка «грязных» данных из CSV/JSON.
+- Домашнее задание 2: тест в лмс
+- [Домашнее задание 3](dz3_Georgy_Lyalin.py): Асинхронноcть в Python.
